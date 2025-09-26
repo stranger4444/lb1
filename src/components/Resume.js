@@ -62,7 +62,7 @@ const styles = {
   photo: {
     width: "150px",
     height: "150px",
-    borderRadius: "50%", // робить фото круглим
+    borderRadius: "50%", 
     objectFit: "cover",
     border: "3px solid #ddd",
     boxShadow: "0 4px 8px rgba(0,0,0,0.1)",
